@@ -1,0 +1,7 @@
+qdrant-client>=1.7.0
+stamina>=23.1.0
+torch
+transformers
+colpali-engine
+openai
+google-colab  # Only if running specifically in Google Colab
